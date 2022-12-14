@@ -2,64 +2,44 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: About Me
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Projects"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Mid-Atlantic Bight Cold Pool"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Long-term changes on the Northwest Atlantic Shelf & Slope"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Seasonal Predictability of Bottom Temperature"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Interannual-to-Decadal Predictability of Metabolic State"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Publications"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Journal Papers"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Technical Reports"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Conference"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Data
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Cold Pool Index"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Gulf Stream Indices"
     url: "/roadmap/"
 
-- title: Blog
+- title: CV
   url: "/blog/"
   side: left
   dropdown:
