@@ -1,4 +1,3 @@
-# Newsletter: Stay in Touch for Future Updates
 # About this Jekyll Theme
 
 This webpage is built upon the Jekyll Theme called *Feeling Responsive*.
