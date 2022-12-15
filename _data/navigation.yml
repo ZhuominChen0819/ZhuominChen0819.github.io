@@ -3,34 +3,34 @@
   side: left
 
 - title: About Me
-  url: "/getting-started/"
+  url: "/about-me/"
   side: left
 
 - title: "Projects"
-  url: "/design/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Mid-Atlantic Bight Cold Pool"
-    url: "/design/grid/"
+    url: "/projects/grid/"
   - title: "Long-term changes on the Northwest Atlantic Shelf & Slope"
-    url: "/design/typography/typography/"
+    url: "/projects/typography/typography/"
   - title: "Seasonal Predictability of Bottom Temperature"
-    url: "/design/page/"
+    url: "/projects/page/"
   - title: "Interannual-to-Decadal Predictability of Metabolic State"
-    url: "/design/post-left-sidebar/"
+    url: "/projects/post-left-sidebar/"
 
 - title: "Publications"
   url: "/headers/"
   side: left
   dropdown:
   - title: "Journal Papers"
-    url: "/design/header-full-width-image/"
+    url: "/projects/header-full-width-image/"
   - title: "Technical Reports"
-    url: "/design/header-image-pattern/"
+    url: "/projects/header-image-pattern/"
   - title: "Conference"
-    url: "/design/header-image-color/"
+    url: "/projects/header-image-color/"
 
-- title: Data
+- title: "Data"
   url: "/documentation/"
   side: left
   dropdown:
@@ -39,12 +39,9 @@
   - title: "Gulf Stream Indices"
     url: "/roadmap/"
 
-- title: CV
-  url: "/blog/"
+- title: "CV"
+  url: "/CV/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"

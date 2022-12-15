@@ -1,0 +1,41 @@
+---
+layout              : page
+show_meta           : false
+title               : "My Education and Research Experience"
+subheadline         : "A Timeline Shows"
+header:
+   image_fullwidth  : "header_homepage_13.jpg"
+permalink           : "/about-me/"
+---
+**2009-2013** **Bachelor of Science (B.S.)** with honors in Marine Science
+              *Ocean University of China*, Qingdao, China
+          
+**2013-2018** **Doctor of Philosophy (Ph.D.)** in Physical Oceanography
+              *Rutgers, the State University of New Jersey*, New Brunswick, NJ
+              I was trained as a coastal physical oceanographer through my PhD study with [Dr.Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*] [2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation. 
+
+**2018-2021** **Guest Student, Postdoc Fellow, and Postdoc Investigator** in Physical Oceanography
+              *Woods Hole Oceanographic Institution (WHOI)*, Woods Hole, MA
+              I worked with [Dr.Young-Oh Kwon][4], [Dr.Ke Chen][5], [Dr.Paula Fratantoni (NOAA NMFS)][6], [Dr.Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
+          
+**2021-now**  **Research Scientist** in Physical & Biogeochemical Oceanography
+              *University of Connecticut (UConn)*, Groton, CT
+              I am working with [Dr.Samantha Siedlecki][9], [Dr.Matthew Long (NCAR)][10], and [Dr.Colleen Petrick (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
+
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out the research projects in detail ›</a>
+
+
+ [1]: https://envsci.rutgers.edu/profiles/curchitser_enrique.html
+ [2]: https://esm.rutgers.edu/
+ [3]: https://rucore.libraries.rutgers.edu/rutgers-lib/58963/
+ [4]: https://www2.whoi.edu/staff/ykwon/
+ [5]: https://www2.whoi.edu/staff/kchen/
+ [6]: https://www.fisheries.noaa.gov/contact/paula-fratantoni-phd
+ [7]: https://directory.whoi.edu/profile/ggawarkiewicz/
+ [8]: https://directory.whoi.edu/profile/tjoyce/
+ [9]: https://marinesciences.uconn.edu/person/samantha-siedlecki/
+ [10]: https://www2.cgd.ucar.edu/staff/mclong/
+ [11]: https://cpetrik.scrippsprofiles.ucsd.edu/
+ [12]: https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab
+ 
