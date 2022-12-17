@@ -7,7 +7,8 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 ---
 #### Email:
-zhuomin.chen@uconn.edu
+zhuomin.chen@uconn.edu    
+zchenocean@gmail.com
 
 #### Address:
 Room 280, 1080 Shennecossett Road, Groton, CT   
