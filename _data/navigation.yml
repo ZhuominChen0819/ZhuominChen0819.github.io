@@ -1,4 +1,4 @@
-- title: Start
+- title: Zhuomin Chen
   url: "/"
   side: left
 
@@ -10,37 +10,38 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "Mid-Atlantic Bight Cold Pool"
-    url: "/projects/grid/"
-  - title: "Long-term changes on the Northwest Atlantic Shelf & Slope"
-    url: "/projects/typography/typography/"
-  - title: "Seasonal Predictability of Bottom Temperature"
-    url: "/projects/page/"
-  - title: "Interannual-to-Decadal Predictability of Metabolic State"
-    url: "/projects/post-left-sidebar/"
+  - title: "Seasonal Variability of the Mid-Atlantic Bight Cold Pool"
+    url: "/projects/seasonal-mab-cold-pool/"
+  - title: "Long-term SST Changes on the Northwest Atlantic Shelf & Slope"
+    url: "/projects/long-term-sst-trend/"
+  - title: "Interannual Variability of the Mid-Atlantic Bight Cold Pool"
+    url: "/projects/interannual-mab-cold-pool/"
+  - title: "Seasonal Predictions of Bottom Temperature on Northeast US Shelf"
+    url: "/projects/seasonal-prediction/"
+
 
 - title: "Publications"
-  url: "/headers/"
+  url: "/publications/"
   side: left
-  dropdown:
-  - title: "Journal Papers"
-    url: "/projects/header-full-width-image/"
-  - title: "Technical Reports"
-    url: "/projects/header-image-pattern/"
-  - title: "Conference"
-    url: "/projects/header-image-color/"
+#  dropdown:
+#  - title: "Journal Papers"
+#    url: "/projects/header-full-width-image/"
+#  - title: "Technical Reports"
+#    url: "/projects/header-image-pattern/"
+#  - title: "Conference"
+#    url: "/projects/header-image-color/"
 
 - title: "Data"
-  url: "/documentation/"
+  url: "/dataset/"
   side: left
-  dropdown:
-  - title: "Cold Pool Index"
-    url: "/changelog/"
-  - title: "Gulf Stream Indices"
-    url: "/roadmap/"
+#  dropdown:
+#  - title: "Cold Pool Index"
+#    url: "/changelog/"
+#  - title: "Gulf Stream Indices"
+#    url: "/roadmap/"
 
 - title: "CV"
-  url: "/CV/"
+  url: "/curriculumvitae/"
   side: left
 
 - title: "Search"

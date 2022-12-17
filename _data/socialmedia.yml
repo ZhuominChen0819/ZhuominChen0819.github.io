@@ -3,15 +3,15 @@
   class: icon-github
   title: Github page
 
-- name: Google Scholar
-  url: https://scholar.google.com/citations?user=FxcW2lUAAAAJ&hl=en&authuser=1
-  class: icon-outube
-  title: "Google Scholar page"
+#- name: Google Scholar
+#  url: https://scholar.google.com/citations?user=FxcW2lUAAAAJ&hl=en&authuser=1
+#  class: icon-youtube
+#  title: "Google Scholar page"
 
-- name: ResearchGate
-  url: https://www.researchgate.net/profile/Zhuomin-Chen-3
-  class: icon-cloud
-  title: "Research Gate"
+#- name: ResearchGate
+#  url: https://www.researchgate.net/profile/Zhuomin-Chen-3
+#  class: icon-cloud
+#  title: "Research Gate"
 
 # - name: Facebook
 #   url: http://www.facebook.com/

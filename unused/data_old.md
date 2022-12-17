@@ -1,34 +1,16 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
-permalink: "/documentation/"
+title: "Available Datasets"
+
+
+permalink: "/data/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
 
+This data page is a work in progress, and datasets are available upon [request]({{ site.url }}{{ site.baseurl }}/contact/).
+## The Gulf Stream Index 
 
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
-## Edit Navigation   {#edit-navigation}
-
-To customize the navigation of *Feeling Responsive*, you have to open the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`. Edit the data and adjust it to your own needs.
-
-## Different Page/Posts Formats   {#formats}
-
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
 
 ### Page/Post
 The [page/post format]({{ site.url }}{{ site.baseurl }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
