@@ -43,7 +43,7 @@
 - title: "CV"
   url: "/curriculumvitae/"
   side: left
-
+  
 - title: "Search"
   url: "/search/"
   side: right

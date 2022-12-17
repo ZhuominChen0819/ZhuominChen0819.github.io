@@ -18,10 +18,10 @@ widget2:
   image: widget-2-302x182.jpg
   text: 'I am currently working on several interesting projects...'
 widget3:
-  title: "Gallery & Moments"
-  url: http://zchenocean.github.io/projects/
+  title: "Available Datasets"
+  url: http://zchenocean.github.io/dataset/
   image: widget-3.jpg
-  text: "I'd like to record & share beautiful moments in life..."
+  text: "I share some published datasets here, e.g. the Cold Pool & Gulf Stream Indices...."
 
 
 #

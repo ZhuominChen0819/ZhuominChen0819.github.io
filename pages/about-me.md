@@ -4,7 +4,7 @@ show_meta           : false
 title               : "My Education and Research Experience"
 subheadline         : "A Timeline Shows"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
 

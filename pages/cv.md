@@ -1,7 +1,6 @@
 ---
 layout              : page-fullwidth
 title               : " "
-
 header: 
    image_fullwidth  : "header_cv.jpg"
 permalink           : "/curriculumvitae/"
@@ -22,4 +21,6 @@ gallery:
     - image_url: CV_ZhuominChen6.jpg
 
 ---
+
+
 {% include gallery %}
