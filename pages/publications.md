@@ -14,14 +14,14 @@ permalink: "/publications/"
 4. <b>Chen, Z.</b>, Kwon, Y.‐O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M., et al. (<b>2021</b>). Seasonal Prediction of Bottom Temperature on the Northeast U.S. Continental Shelf. <i>Journal of Geophysical Research: Oceans, 126</i>, e2021JC017187. <a href='https://doi.org/10.1029/2021JC017187'>Link</a>   
 5. Cai, C., Kwon, Y. O., <b>Chen, Z.</b>, & Fratantoni, P. (<b>2021</b>). Mixed layer depth climatology over the northeast US continental shelf (1993–2018). <i>Continental Shelf Research</i>,104611. <a href='https://doi.org/10.1016/j.csr.2021.104611'>Link</a>    
 6. du Pontavice, H., Miller, T. J., Stock, B. C., <b>Chen, Z.</b>, & Saba, V. (<b>2022</b>). Ocean modelbased covariates improve a marine fish stock assessment when observations are limited. <i>ICES Journal of Marine Science</i>, fsac050. <a href='https://doi.org/10.1093/icesjms/fsac050'>Link</a>   
-7. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2022</b>). Role of air-sea heat flux on the transformation of Atlantic Water as it encircles the Nordic Seas. <i>Nature Communications</i>, accepted   
-8. du Pontavice, H., <b>Chen, Z.</b>, & Saba, V. (<b>2022</b>). A high-resolution ocean bottom temperature product for the northeast U.S. shelf marine ecosystem. <i>Progress in Oceanography</i>, accepted    
+7. du Pontavice, H., <b>Chen, Z.</b>, & Saba, V. S. (<b>2022</b>). A high-resolution ocean bottom temperature product for the northeast US continental shelf marine ecosystem. <i>Progress in Oceanography</i>, 102948. <a href='https://doi.org/10.1016/j.pocean.2022.102948'>Link</a>
+8. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i>Nature Communications</i>, 14. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
 9. <b>Chen, Z.</b>, Siedlecki, S., Long, M., Petrick, C., & Stock, C. (<b>2023</b>). North Pacific Decadal Predictability of Subsurface Temperature, Oxygen, and the Metabolic Index. <i>Nature Communications</i>, in preparation    
 10. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2023</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
 11. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2023</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
   
 ### Technical Documents/Reports
-I have also contributed to the State of Ecosystem Reports for the Mid-Atlantic and New England since 2020.   
+I am also one of the contributors to the NOAA State of Ecosystem Reports for the Mid-Atlantic and New England since 2020.   
 1. NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic (<b>2020</b>). <a href='https://doi.org/10.25923/1f8j-d564'>Link</a>   
 2. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2020</b>).
  <a href='https://doi.org/10.25923/4tdk-eg57'>Link</a>    
@@ -29,5 +29,6 @@ I have also contributed to the State of Ecosystem Reports for the Mid-Atlantic a
  <a href='https://doi.org/10.25923/jd1w-dc26'>Link</a>
 4. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2021</b>).
  <a href='https://doi.org/10.25923/6pww-mw45'>Link</a>   
-
+5. NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic (<b>2022</b>). <a href='https://doi.org/10.25923/5s5y-0h81'>Link</a>
+6. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2022</b>). <a href='https://doi.org/10.25923/ypv2-mw79'>Link</a>
 
