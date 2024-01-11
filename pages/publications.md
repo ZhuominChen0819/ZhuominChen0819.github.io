@@ -18,6 +18,7 @@ permalink: "/publications/"
 7. du Pontavice, H., Miller, T. J., Stock, B. C., <b>Chen, Z.</b>, & Saba, V. (<b>2022</b>). Ocean modelbased covariates improve a marine fish stock assessment when observations are limited. <i>ICES Journal of Marine Science</i>, fsac050. <a href='https://doi.org/10.1093/icesjms/fsac050'>Link</a>   
 8. du Pontavice, H., <b>Chen, Z.</b>, & Saba, V. S. (<b>2022</b>). A high-resolution ocean bottom temperature product for the northeast US continental shelf marine ecosystem. <i>Progress in Oceanography</i>, 102948. <a href='https://doi.org/10.1016/j.pocean.2022.102948'>Link</a>
 9. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i>Nature Communications</i>, 14. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
+
 <i>Paper in preparation</i>
 10. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2023</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
 11. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2023</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
