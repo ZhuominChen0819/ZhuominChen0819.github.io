@@ -9,10 +9,16 @@ permalink: "/projects/"
 
 ---
 #### **Latest Progresses & News:**
+*<i><b>Upcoming February, 2024</b></i>*
+* I am going to give a guest presentation about marine habitat shifts predictions in the <i><b>Transatlantic High-latitude Oceanography Retreat (THOR) 2024</b></i>.
+* I am going to present a poster about marine habitat shifts predictions at the <i><b>Ocean Sciences Meeting 2024</b></i>.
+
 *<i><b>January, 2024</b></i>*
 * My first-author paper titled "Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen" has just been accepted for publication in <i>Nature Communications</i>. Here is a preprint of the [work][1].
 * I am going to co-teach the course <i>MARN3002 Foundations of Marine Sciences</i> with Prof. Hans Dam in the upcoming Spring semester, 2024.
-
+*<i><b>December, 2023</b></i>*
+* I gave an online seminar at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
+ 
 #### **Research Interests:**
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
 * Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream)
