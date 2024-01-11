@@ -1,4 +1,4 @@
---
+---
 layout              : page-fullwidth
 show_meta           : false
 title               : "My Education and Research Experience"
