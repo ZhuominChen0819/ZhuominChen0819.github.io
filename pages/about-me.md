@@ -18,7 +18,7 @@ permalink           : "/about-me/"
 
 #### 2018-2020: National Research Council Postdoctoral Research Associateship
 * <i><b>National Oceanic and Atmospheric Administration (NOAA)</b></i>, Woods Hole, MA
-* I was awarded with a National Research Council Postdoctoral Fellowship to work with [Dr. Paula Fratantoni (NOAA NMFS)][6] at the NOAA Northeast Fisheries Science Center on a project about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
+* I was awarded a National Research Council Postdoctoral Fellowship working with [Dr. Paula Fratantoni (NOAA NMFS)][6] at the NOAA Northeast Fisheries Science Center on a project about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
           
 #### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
