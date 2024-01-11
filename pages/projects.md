@@ -16,9 +16,19 @@ permalink: "/projects/"
 *<i><b>January, 2024</b></i>*
 * My first-author paper titled "Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen" has just been accepted for publication in <i>Nature Communications</i>. Here is a preprint of the [work][1].
 * I am going to co-teach the course <i>MARN3002 Foundations of Marine Sciences</i> with Prof. Hans Dam in the upcoming Spring semester, 2024.
+
 *<i><b>December, 2023</b></i>*
-* I gave an online seminar at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
+* I gave an online seminar (30-min) at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
  
+*<i><b>November, 2023</b></i>*
+* A research proposal (lead-PI: <b>Z. Chen</b>) has been submitted to the NOAA MAPP program about project future changes in the Gulf Stream warm-core rings and the corresponding impacts on the Northeast U.S. continental shelf.
+
+*<i><b>October, 2023</b></i>*
+* I gave an oral presentation (20-min) about marine habitat shift predictions at the <i><b>PICES-2023 Annual Meeting</b></i>, Seattle, WA.
+
+*<i><b>September, 2023</b></i>* 
+* I gave an oral presentation (20-min) about marine habitat shift predictions at the <i><b>Eastern Pacific Ocean Conference</b></i>, Stanford Sierra Conference Center, Reno, NV
+
 #### **Research Interests:**
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
 * Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream)
