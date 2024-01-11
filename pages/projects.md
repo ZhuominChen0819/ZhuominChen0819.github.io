@@ -9,6 +9,7 @@ permalink: "/projects/"
 
 ---
 #### **Latest Progresses & News:**
+*<i><b>January, 2024</b></i>*
 * My first-author paper titled "Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen" has just been accepted for publication in <i>Nature Communications</i>. Here is a preprint of the [work][1].
 * I am going to co-teach the course <i>MARN3002 Foundations of Marine Sciences</i> with Prof. Hans Dam in the upcoming Spring semester, 2024.
 
