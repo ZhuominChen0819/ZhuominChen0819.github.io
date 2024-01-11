@@ -1,4 +1,4 @@
----
+--
 layout              : page-fullwidth
 show_meta           : false
 title               : "My Education and Research Experience"
@@ -15,6 +15,10 @@ permalink           : "/about-me/"
 #### 2018-2021: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
 * I worked with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
+
+#### 2018-2020: National Research Council Postdoctoral Research Associateship
+* <i><b>National Oceanic and Atmospheric Administration (NOAA)</b></i>, Woods Hole, MA
+* I was awarded with a National Research Council Postdoctoral Fellowship to work with [Dr. Paula Fratantoni (NOAA NMFS)][6] at the NOAA Northeast Fisheries Science Center on a project about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
           
 #### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
@@ -22,7 +26,7 @@ permalink           : "/about-me/"
           
 #### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
-
+* My undergraduate project is to investigate the impacts of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
 
 ## <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out my research projects ›</a>
 
