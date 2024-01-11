@@ -1,13 +1,16 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "My Research Interests & Projects"
+title: "My Latest Progresses & Projects"
 #subheadline: "A timeline shows"
 header:
   image_fullwidth: header_projects.jpg
 permalink: "/projects/"
 
 ---
+#### **Latest Progresses & News:**
+* My first-author paper titled "Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen" has just been accepted for publication in <i>Nature Communications</i>. Here is a preprint of the [work][1].
+* I am going to co-teach the course <i>MARN3002 Foundations of Marine Sciences</i> with Prof. Hans Dam in the upcoming Spring semester, 2024.
 
 #### **Research Interests:**
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
@@ -28,5 +31,5 @@ permalink: "/projects/"
 {: .t60 }
 {% include list-posts tag='projects' %}
 
-
+ [1]: https://www.researchsquare.com/article/rs-2923523/v1
 
