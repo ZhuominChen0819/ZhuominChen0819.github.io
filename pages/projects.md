@@ -21,7 +21,7 @@ permalink: "/projects/"
 * I gave an online seminar (30-min) at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
  
 *<i><b>November, 2023</b></i>*
-* A research proposal (lead-PI: <b>Z. Chen</b>) has been submitted to the NOAA MAPP program about project future changes in the Gulf Stream warm-core rings and the corresponding impacts on the Northeast U.S. continental shelf.
+* A research proposal (Lead PI: <b>Z. Chen</b>) has been submitted to the NOAA MAPP program about project future changes in the Gulf Stream warm-core rings and the corresponding impacts on the Northeast U.S. continental shelf.
 
 *<i><b>October, 2023</b></i>*
 * I gave an oral presentation (20-min) about marine habitat shift predictions at the <i><b>PICES-2023 Annual Meeting</b></i>, Seattle, WA.
