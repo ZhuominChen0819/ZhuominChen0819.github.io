@@ -28,6 +28,16 @@ permalink: "/projects/"
 
 *<i><b>September, 2023</b></i>* 
 * I gave an oral presentation (20-min) about marine habitat shift predictions at the <i><b>Eastern Pacific Ocean Conference</b></i>, Stanford Sierra Conference Center, Reno, NV
+* Our letter of intent (LOI) for a proposal submitted to the NOAA MAPP program has been approved.
+
+*<i><b>August, 2023</b></i>*
+* We submitted a letter of intent (LOI) for a research proposal (Lead PI: <b>Z. Chen</b>) to the NOAA MAPP program.
+
+*<i><b>July, 2023</b></i>*
+* Constructive comments received from reviewers on our recently submitted paper to <i><b>Nature Communications</b></i>.
+
+*<i><b>June, 2023</b></i>*
+* I present a poster (30-sec poster preview talk) about marine habitat shift predictions at the <i><b>Gordon Research Conference-Coastal Ocean Dynamics</b></i>, Bryant University, RI 
 
 #### **Research Interests:**
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
