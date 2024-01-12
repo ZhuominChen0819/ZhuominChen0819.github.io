@@ -1,18 +1,20 @@
 ---
 layout              : page-fullwidth
 show_meta           : false
-title               : "My Education and Research Experience"
-subheadline         : "A Timeline Shows"
+title               : ""
+subheadline         : "I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling."
 header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
-I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling. My research interests include:
-* Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
-* Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream)
-* Seasonal-to-decadal prediction and predictability of driver variables relevant to marine ecosystems
-* Climate impacts on habitat shifts of diverse marine species (e.g., economically important fisheries)
+I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling.
+#### My research interests include:
+* Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies); 
+* Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream);
+* Seasonal-to-decadal prediction and predictability of driver variables relevant to marine ecosystems;
+* Climate impacts on habitat shifts of diverse marine species (e.g., economically important fisheries).
 
+### My Education and Research Experience
 #### 2021-now:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
 * I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrick (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
