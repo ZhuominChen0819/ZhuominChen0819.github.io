@@ -2,12 +2,11 @@
 layout              : page-fullwidth
 show_meta           : false
 title               : ""
-subheadline         : ""
+teaser              : "I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling."
 header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
-I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling.
 ### My research interests include:
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies); 
 * Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream);
