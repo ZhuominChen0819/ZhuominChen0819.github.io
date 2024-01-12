@@ -39,11 +39,6 @@ July, 2023
 June, 2023
 : * I present a poster (30-sec poster preview talk) about marine habitat shift predictions at the <i><b>Gordon Research Conference-Coastal Ocean Dynamics</b></i>, Bryant University, RI 
 
-#### **Research Interests:**
-* Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies) 
-* Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream)
-* Seasonal-to-decadal prediction and predictability of coastal physical and biogeochemical driver variables relevant to marine ecosystems.   
-
 #### **Ongoing Projects:**
 1. Marine habitat shifts jointly constrained by ocean temperature and dissolved oxygen  
 :  I am currently working on investigating <i>marine habitat shifts</i> in large marine ecosystems around the North America, using a novel suite of initialized retrospective Earth System Model with embedded ocean biogeochemistry (CESM-DPLE). This study also identifies mechanistic controls to the predictability from the physical and biogeochemical driver variables across different marine species.   
