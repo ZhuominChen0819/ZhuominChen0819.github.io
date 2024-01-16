@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 show_meta           : false
 title               : ""
-teaser              : "I am a female oceanographer with a diverse interdisciplinary background, encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling."
+teaser              : "My name is Zhuomin Chen. I am a female coastal oceanographer with a diverse interdisciplinary background encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling. Please check out my recent work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13]"
 header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
@@ -24,13 +24,13 @@ permalink           : "/about-me/"
 
 #### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
-* I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*] [2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation. 
+* I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation. 
           
 #### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
 * My undergraduate project is to investigate the impacts of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
 
-## <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out my research projects ›</a>
+## <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out my latest news & research projects ›</a>
 
 
  [1]: https://envsci.rutgers.edu/profiles/curchitser_enrique.html
@@ -45,4 +45,4 @@ permalink           : "/about-me/"
  [10]: https://www2.cgd.ucar.edu/staff/mclong/
  [11]: https://cpetrik.scrippsprofiles.ucsd.edu/
  [12]: https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab
- 
+ [13]: https://www.researchsquare.com/article/rs-2923523/v1
