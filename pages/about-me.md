@@ -2,11 +2,13 @@
 layout              : page-fullwidth
 show_meta           : false
 title               : ""
-teaser              : "My name is Zhuomin Chen. I am a female coastal oceanographer with a diverse interdisciplinary background encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling. Please check out my recent work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13]"
+teaser              : ""
 header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
+My name is Zhuomin Chen. I am a female coastal oceanographer with a diverse interdisciplinary background encompassing expertise in physical oceanography, marine biogeochemistry, ecology, and earth system modeling. Please check out my recent work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13].
+
 ### My research interests include:
 * Coastal ocean processes, including marine extremes and oceanic eddies (e.g., Gulf Stream eddies); 
 * Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream);

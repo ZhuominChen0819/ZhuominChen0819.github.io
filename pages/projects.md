@@ -15,7 +15,7 @@ Upcoming February, 2024
 
 January, 2024
 : * My first-author paper titled "Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen" has just been accepted for publication in <i>Nature Communications</i>. Here is a preprint of the [work][1].
-  * I am going to co-teach the course <i>MARN3002 Foundations of Marine Sciences</i> with Prof. Hans Dam in the upcoming Spring semester, 2024.
+  * I am currently <b>co-teaching</b> the course [<i><b>MARN3002 Foundations of Marine Sciences</b></i>][3] with [<i><b>Prof. Hans Dam</b></i>][2] in the Spring semester, 2024.
 
 December, 2023
 : * I gave an online seminar (30-min) at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
@@ -54,4 +54,6 @@ June, 2023
 {% include list-posts tag='projects' %}
 
  [1]: https://www.researchsquare.com/article/rs-2923523/v1
+ [2]: https://marinesciences.uconn.edu/person/hans-g-dam/
+ [3]: https://catalog.uconn.edu/directory-of-courses/course/MARN/3002/
 
