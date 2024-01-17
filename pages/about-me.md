@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 show_meta           : false
-title               : ""
+title               : "Welcome"
 teaser              : ""
 header:
    image_fullwidth  : "header_about_me.jpg"
