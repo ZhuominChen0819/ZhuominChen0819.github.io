@@ -1,4 +1,8 @@
 - menu_name: "Links"
+- name: "OUC-Marine Sciences"
+  url: "http://eweb.ouc.edu.cn/coasouc/"
+  class: "network-entypo"
+  title: "Ocean University of China"
 
 - name: "Rutgers-Marine Sciences"
   url: "https://marine.rutgers.edu/"
