@@ -18,7 +18,7 @@ My name is Zhuomin Chen. I am a physical oceanographer by training, but now with
 #### My Education and Research Experience
 ##### 2021-now:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrick (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
+* I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrik (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
 
 ##### 2018-2021: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
