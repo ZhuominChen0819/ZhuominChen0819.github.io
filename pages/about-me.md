@@ -27,8 +27,8 @@ Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am a physical oceanographe
 
 ##### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
-* I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation. 
-          
+* I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
+           
 ##### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
 * My undergraduate project is about investigation of the impacts from the construction of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
