@@ -10,7 +10,7 @@ permalink: "/projects/"
 ---
 #### **Latest Progresses & News:**
 Upcoming February, 2024
-: * I am going to present a poster about [marine habitat shifts predictions][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). I will be there in person only from Wednesday evening to Friday afternoon due to teaching. 
+: * I am going to present a poster about [marine habitat shifts predictions][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). I will be there in person only from Wednesday evening to Friday afternoon due to teaching. Happy to meet people there in person! 
 
 January, 2024
 : * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been accepted for publication in <i><b>Nature Communications</b></i>. 
