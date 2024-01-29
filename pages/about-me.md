@@ -31,7 +31,7 @@ Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am a physical oceanographe
           
 ##### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
-* My undergraduate project is to investigate the impacts of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
+* My undergraduate project is about investigation of the impacts from the construction of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
 
 ## <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out my latest news & research projects ›</a>
 
