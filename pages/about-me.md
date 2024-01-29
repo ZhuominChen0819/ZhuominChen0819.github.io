@@ -7,7 +7,7 @@ header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
-My name is Zhuomin Chen. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>. Please check out my recent work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been accepted by <i>Nature Communications</i>.
+Hi there! My name is Zhuomin Chen. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>. Please check out my recent work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been accepted by <i>Nature Communications</i>.
 
 #### My research interests include:
 * Understanding and predicting variability of driver variables relevant to marine ecosystems;
