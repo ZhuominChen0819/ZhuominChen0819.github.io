@@ -13,7 +13,7 @@ Upcoming February, 2024
 : * I am going to present a poster about [marine habitat shifts predictions][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). I will be there in person only from Wednesday evening to Friday afternoon due to teaching. 
 
 January, 2024
-: * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been accepted for publication in <i>Nature Communications</i>. 
+: * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been accepted for publication in <i><b>Nature Communications</b></i>. 
   * I am currently <b>co-teaching</b> the course [<i><b>MARN3002 Foundations of Marine Sciences</b></i>][3] with [<i><b>Prof. Hans Dam</b></i>][2] in the Spring semester, 2024.
 
 December, 2023
@@ -36,7 +36,7 @@ July, 2023
 : * Constructive comments received from reviewers on our recently submitted paper to <i><b>Nature Communications</b></i>.
 
 June, 2023
-: * I present a poster (30-sec poster preview talk) about marine habitat shift predictions at the <i><b>Gordon Research Conference-Coastal Ocean Dynamics</b></i>, Bryant University, RI 
+: * I presented a poster (30-sec poster preview talk) about marine habitat shift predictions at the <i><b>Gordon Research Conference-Coastal Ocean Dynamics</b></i>, Bryant University, RI 
 
 #### **Ongoing Projects:**
 1. Marine habitat shifts jointly constrained by ocean temperature and dissolved oxygen  
