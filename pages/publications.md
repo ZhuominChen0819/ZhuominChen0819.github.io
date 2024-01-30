@@ -24,8 +24,8 @@ permalink: "/publications/"
 11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (2024). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
 
 <i>Papers in preparation</i>
-12. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2023</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
-13. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2023</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
+12. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2024</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
+13. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2024</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
 14. Petrik, C. M., Long, M. C., Stock, C., Lim, H.-G., K., K. M., <b>Chen, Z.</b>, S. A., Siedlecki. Drivers of spatiotemporal variability in fisheries production elucidated with global coupled models, in preparation
 15. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim. Potential predictability of forage, pelagics and demersals biomass, in preparation
 
