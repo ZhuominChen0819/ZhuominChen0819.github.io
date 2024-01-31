@@ -7,7 +7,9 @@ header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
-Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>. Please check out my very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <i><b>Nature Communications</b></i>.
+Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am currently a <b>Research Scientist</b> at [<b>University of Connecticut, Department of Marine Sciences</b>][14]. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>.  
+
+Please check out my very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <i><b>Nature Communications</b></i>.
 
 #### My research interests include:
 * Understanding and predicting variability of driver variables relevant to marine ecosystems;
@@ -49,3 +51,4 @@ Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am a physical oceanographe
  [11]: https://cpetrik.scrippsprofiles.ucsd.edu/
  [12]: https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab
  [13]: https://www.nature.com/articles/s41467-024-45016-5
+ [14]: https://marinesciences.uconn.edu/person/zhuomin-chen/
