@@ -8,7 +8,7 @@ header:
 permalink: "/publications/"
 ---
 ### Peer-reviewed Journal Papers
-<i>Published and accepted papers</i>
+<i>Published papers</i>
 1. <b>Chen, Z.</b>, Curchitser, E., Chant, R. & Kang, D. (<b>2018</b>). Seasonal Variability of the Cold Pool over the Mid-Atlantic Bight Continental Shelf. <i><b>Journal of Geophysical Research: Oceans</b>, 123</i>(11), 8203-8226. <a href='https://doi.org/10.1029/2018JC014148'>Link</a>   
 2. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., & Joyce, T. M. (<b>2020</b>). Long-term SST Variability on the Northwest Atlantic Continental Shelf and Slope. <i><b>Geophysical Research Letters</b>, 47</i>(1), e2019GL085455. <a href='https://doi.org/10.1029/2019GL085455'>Link</a>   
 3. <b>Chen, Z.</b>, Curchitser, E. N. (<b>2020</b>). Interannual Variability of the Mid‐Atlantic Bight Cold Pool. <i><b>Journal of Geophysical Research: Oceans</b>, 125</i>, e2020JC016445. <a href='https://doi.org/10.1029/2020JC016445'>Link</a>   
