@@ -23,7 +23,7 @@ Here we quantify interannual-to-decadal predictability of habitat shifts by comb
 <img class="t60" src="{{ site.urlimg }}NCommFigure1.png" alt="">
 <b>Figure 1.</b> Study domain and the eleven North American Large Marine Ecosystems (LMEs), with significantly higher prediction skills from the decadal prediction system against reconstruction persistence in predicting habitat viability in the upper-600 m ocean. The prediction skills are assessed as Anomaly Correlation Coefficient (ACC). [Figure Source]( https://www.nature.com/articles/s41467-024-45016-5)
 
-<img class="t60" src="{{ site.urlimg }}NCommFigure2.jpg" alt="">
+<img class="t60" src="{{ site.urlimg }}NCommFigure2.png" alt="">
 <b>Figure 2.</b> Interannual viable habitat contraction or expansion in space and shoaling or deepening within the eleven Large Marine Ecosystems (LMEs). [Figure Source](https://www.nature.com/articles/s41467-024-45016-5)
     
 ## <a class="radius button small" href="https://www.nature.com/articles/s41467-024-45016-5">Check out the paper here›</a>
