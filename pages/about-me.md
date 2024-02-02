@@ -9,7 +9,7 @@ permalink           : "/about-me/"
 ---
 Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am currently a <b>Research Scientist</b> at [<b>University of Connecticut, Department of Marine Sciences</b>][14]. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>.  
 
-Please check out our very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <b>Nature Communications</b>: [www.nature.com/articles/s41467-024-45016-5][15].
+I am thrilled to share our very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <b>Nature Communications</b>: [www.nature.com/articles/s41467-024-45016-5][15].
 
 Here is an excellent <b>commentary</b> on our work at <b>Nature Communications</b> as well by <b>Dr. Mark R. Payne</b> from National Center for Climate Research, Danish Meteorological Institute, Copenhagen, Denmark: [www.nature.com/articles/s41467-024-45020-9][16].
 
