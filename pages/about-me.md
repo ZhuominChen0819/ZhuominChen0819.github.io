@@ -11,7 +11,7 @@ Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am currently a <b>Research
 
 I am thrilled to share our very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <b>Nature Communications</b>: [www.nature.com/articles/s41467-024-45016-5][15].
 
-Here is an excellent <b>commentary</b> on our work at <b>Nature Communications</b> as well by <b>Dr. Mark R. Payne</b> from National Center for Climate Research, Danish Meteorological Institute, Copenhagen, Denmark: [www.nature.com/articles/s41467-024-45020-9][16].
+Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communications</b> as well by <b>Dr. Mark R. Payne</b> from National Center for Climate Research, Danish Meteorological Institute, Copenhagen, Denmark: [www.nature.com/articles/s41467-024-45020-9][16].
 
 #### My research interests include:
 * Understanding and predicting variability of driver variables relevant to marine ecosystems;
