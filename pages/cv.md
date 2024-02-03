@@ -20,6 +20,7 @@ gallery:
             
     - image_url: CV_ZhuominChen6.jpg
 
+    - image_url: CV_ZhuominChen7.jpg
 ---
 
 
