@@ -14,7 +14,7 @@ February, 2024
 : * <b><i>UConn Today</i></b> reported our work about predicting marine habitat shifts, titled "[A New Tool to Skillfully Predict Marine Habitat Shiftsi][5]".
 
 January, 2024
-: * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been published at <i><b>Nature Communications</b></i>. 
+: * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been published at <i><b>Nature Communications</b></i>, together with [an excellent commentary][6] by Dr. Mark R. Payne. 
   * I am currently <b>co-teaching</b> the course [<i><b>MARN3002 Foundations of Marine Sciences</b></i>][3] with [<i><b>Prof. Hans Dam</b></i>][2] in the Spring semester, 2024.
 
 December, 2023
@@ -58,3 +58,4 @@ June, 2023
  [3]: https://catalog.uconn.edu/directory-of-courses/course/MARN/3002/
  [4]: https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483854
  [5]: https://today.uconn.edu/2024/02/a-new-tool-to-skillfully-predict-marine-habitat-shifts/
+ [6]: https://www.nature.com/articles/s41467-024-45020-9
