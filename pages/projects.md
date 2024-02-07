@@ -9,8 +9,9 @@ permalink: "/projects/"
 
 ---
 #### **Latest Progresses & News:**
-Upcoming February, 2024
+February, 2024
 : * I am going to present a poster about [marine habitat shifts predictions][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). I will be there in person only from Wednesday evening to Friday afternoon due to teaching. Happy to meet people there in person! 
+: * <b><i>UConn Today</i></b> reported our work about predicting marine habitat shifts, titled "[A New Tool to Skillfully Predict Marine Habitat Shiftsi][5]".
 
 January, 2024
 : * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been published at <i><b>Nature Communications</b></i>. 
@@ -56,3 +57,4 @@ June, 2023
  [2]: https://marinesciences.uconn.edu/person/hans-g-dam/
  [3]: https://catalog.uconn.edu/directory-of-courses/course/MARN/3002/
  [4]: https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483854
+ [5]: https://today.uconn.edu/2024/02/a-new-tool-to-skillfully-predict-marine-habitat-shifts/
