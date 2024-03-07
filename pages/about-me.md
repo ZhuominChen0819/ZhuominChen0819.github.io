@@ -39,8 +39,12 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 
 ## <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/projects/">Check out my latest news & research projects ›</a>
 
-#### Other Professional Activities:
-* <b>Journal Reviewer</b>: <i>Nature</i> (1); <i>Nature Climate Change</i> (1); <i>Geophysical Research Letters</i> (2); <i>Journal of Geophysical Research-Oceans</i> (4); <i>Continental Shelf Research</i> (1); <i>Fisheries Oceanography</i> (1); <i>Remote Sensing of Environment</i> (1); <i>European Geosciences Union-Ocean Sciences</i> (3); and <i>Journal of Advances in Modeling Earth Systems</i> (1)
+#### Other Professional Service or Activities:
+* <b>Journal Reviewer</b> for <i>Nature</i> (1); <i>Nature Climate Change</i> (1); <i>Geophysical Research Letters</i> (2); <i>Journal of Geophysical Research-Oceans</i> (4); <i>Continental Shelf Research</i> (1); <i>Fisheries Oceanography</i> (1); <i>Remote Sensing of Environment</i> (1); <i>European Geosciences Union-Ocean Sciences</i> (3); and <i>Journal of Advances in Modeling Earth Systems</i> (1)
+* <b>Contributor</b> to NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic and New England, providing the observation-based Gulf Stream indices and expertise on evaluating the Mid-Atlantic Bight Cold Pool
+* <b>Member</b> of NOAA Climate Program Office Marine Prediction Task Force, aiming on advancing seasonal to interannual prediction of U.S. coastal environment and ecosystems (2018-2020)
+* <b>Member</b> of NOAA Climate Program Office Marine Ecosystem Task Force, aiming on oxygen prediction using decadal prediction large ensemble ocean models (2021-)
+
 
  [1]: https://envsci.rutgers.edu/profiles/curchitser_enrique.html
  [2]: https://esm.rutgers.edu/
