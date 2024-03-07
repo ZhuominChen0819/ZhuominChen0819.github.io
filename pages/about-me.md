@@ -21,19 +21,19 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 * ...
 
 #### My Education and Research Experience:
-<b>2021-now:  Research Scientist in Physical & Biogeochemical Oceanography</b>
+###### 2021-now:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
 * I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrik (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
 
-<b>2018-2021: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography</b>
+###### 2018-2021: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
-* I was awarded a National Research Council Postdoctoral Fellowship (2018-2020) while working with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
+* I was awarded a <b>National Research Council Postdoctoral Fellowship</b> (2018-2020) while working with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
 
-<b>2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography</b>
+###### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
 * I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
            
-<b>2009-2013: Bachelor of Science (B.S.) with honors in Marine Science</b>
+###### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
 * My undergraduate project is about investigation of the impacts from the construction of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
 
