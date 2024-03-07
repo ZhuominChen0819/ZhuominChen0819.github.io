@@ -20,20 +20,24 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 * Linkages between coastal ocean and large-scale climate and ocean processes (e.g., the Gulf Stream);
 * ...
 
-#### My Education and Research Experience:
-###### 2021-now:  Research Scientist in Physical & Biogeochemical Oceanography
+#### My Education, Research, and Teaching Experience:
+###### 2024.01-2024.03: Course Lecturer in Physical Oceanography
+* <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
+* I am a lecturer for the undergraduate course MARN3002 “Foundations of Marine Science” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
+
+###### 2021.07-now:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
 * I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrik (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
 
-###### 2018-2021: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
+###### 2018.08-2021.07: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
 * I was awarded a <b>National Research Council Postdoctoral Fellowship</b> (2018-2020) while working with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
 
-###### 2013-2018: Doctor of Philosophy (Ph.D.) in Physical Oceanography
+###### 2013.08-2018.10: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
 * I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
            
-###### 2009-2013: Bachelor of Science (B.S.) with honors in Marine Science
+###### 2009.09-2013.06: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
 * My undergraduate project is about investigation of the impacts from the construction of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
 
