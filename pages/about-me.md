@@ -32,15 +32,20 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 ###### 2018.08-2021.07: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
 * I was awarded a <b>National Research Council Postdoctoral Fellowship</b> (2018-2020) while working with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
+* I gave a guest lecture for the course "Coasts and Communities" at the School for the Environment, Umass-Boston, focusing on the impacts from climate change on the coastal communities, e.g., coastal ocean heatwaves, sea level rise, and storms.
 
 ###### 2013.08-2018.10: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
 * I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
+* I was a <b>Graduate Teaching Assistant</b> for the courses "Explore the World's Oceans" and "Physical Oceanography" at the Department of Marine and Coastal Sciences, Rutgers.
            
 ###### 2009.09-2013.06: Bachelor of Science (B.S.) with honors in Marine Science
 * <i><b>Ocean University of China</b></i>, Qingdao, China
 * My undergraduate project is about investigation of the impacts from the construction of the Jiaozhou Bay Bridge on the tidal dynamics of the Jiaozhou Bay, Qingdao, China, using a high-resolution FVCOM model. 
-
+* I was an <b>Undergraduate Research Assistant</b> in the <i>Laboratory of Ocean Circulation Dynamics</b> (advisor: X.-E. Chen) and the <i>Laboratory of Fluid Dynamics</i> (advisor: G. Zheng)
+* I was an <b>Undergraduate Teaching Assistant</b> for the courses "Fluid Mechanics" and "Thermal Dynamics" at the College of Oceanic and Atmospheric Sciences, OUC.
+* I was awarded nearly all honors, awards, and scholarships for excellent performance in courses, competitions, and social activities.
+ 
 #### Other Professional Service or Activities:
 * <b>Journal Reviewer</b> for <i>Nature</i> (1); <i>Nature Climate Change</i> (1); <i>Geophysical Research Letters</i> (2); <i>Journal of Geophysical Research-Oceans</i> (4); <i>Continental Shelf Research</i> (1); <i>Fisheries Oceanography</i> (1); <i>Remote Sensing of Environment</i> (1); <i>European Geosciences Union-Ocean Sciences</i> (3); and <i>Journal of Advances in Modeling Earth Systems</i> (1)
 * <b>Contributor</b> to NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic and New England, providing the observation-based Gulf Stream indices and expertise on evaluating the Mid-Atlantic Bight Cold Pool (2019-)
