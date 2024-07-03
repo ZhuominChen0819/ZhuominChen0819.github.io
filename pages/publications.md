@@ -20,14 +20,14 @@ permalink: "/publications/"
 9. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i><b>Nature Communications</b></i>, <b>14</b>, 141. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
 
 <i>Papers submitted/in review</i>
-10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (2024). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework, <i><b>Progress in Oceanography</b></i>, submitted
+10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (2024). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework, <i><b>Progress in Oceanography</b></i>, in revision
 11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (2024). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
+12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (2024). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
 
 <i>Papers in preparation</i>
 12. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2024</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
 13. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2024</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
 14. Petrik, C. M., Long, M. C., Stock, C., Lim, H.-G., K., K. M., <b>Chen, Z.</b>, S. A., Siedlecki. Drivers of spatiotemporal variability in fisheries production elucidated with global coupled models, in preparation
-15. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim. Potential predictability of forage, pelagics and demersals biomass, in preparation
 
   
 ### Technical Documents/Reports
@@ -41,5 +41,7 @@ I am also one of the contributors to the NOAA State of Ecosystem Reports for the
  <a href='https://doi.org/10.25923/6pww-mw45'>Link</a>   
 5. NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic (<b>2022</b>). <a href='https://doi.org/10.25923/5s5y-0h81'>Link</a>
 6. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2022</b>). <a href='https://doi.org/10.25923/ypv2-mw79'>Link</a>
+7. NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic (<b>2023</b>). <a href='https://doi.org/10.25923/vy6j-w454'>Link</a>
+8. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2023</b>). <a href='https://doi.org/10.25923/9sb9-nj66'>Link</a>
 
 *<i> Last Updated in January, 2024</i>*
