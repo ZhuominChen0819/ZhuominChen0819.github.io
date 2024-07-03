@@ -20,7 +20,7 @@ permalink: "/publications/"
 9. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i><b>Nature Communications</b></i>, <b>14</b>, 141. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
 
 <i>Papers submitted/in review</i>
-10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (2024). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework, <i><b>Progress in Oceanography</b></i>, in revision
+10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (2024). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework, <i><b>Progress in Oceanography</b></i>, <a href='https://doi.org/10.31223/X5FQ2F'>Preprint</a>, in revision
 11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (2024). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
 12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (2024). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
 
