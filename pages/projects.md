@@ -9,13 +9,22 @@ permalink: "/projects/"
 
 ---
 #### **Latest Progresses & News:**
+June, 2024
+: * My first <i><b>Lead-PI</b></i> research proposal has been selected for funding by NOAA! This project is about <i><b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b></i>. It's a three-year project and it will start in September, 2024. 
+
+April, 2024
+: * I attended the [Earth System Predictability Across Timescales (ESPAT) community workshop][7] and presented a poster about <b><i>Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen</i></b>
+
+March, 2024
+: * I worked as a member of peer-review panel for NOAA proposals
+
 February, 2024
-: * I am going to present a poster about [predicting marine habitat shifts][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). I will be there in person only from Wednesday evening to Friday afternoon due to teaching. Happy to meet people there in person! 
+: * I presented a poster about [predicting marine habitat shifts][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). 
   * <b><i>UConn Today</i></b> reported our work about predicting marine habitat shifts, titled "[A New Tool to Skillfully Predict Marine Habitat Shifts][5]".
 
 January, 2024
 : * My first-author paper titled [<b><i>"Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen"</i></b>][1] has just been published at <i><b>Nature Communications</b></i>, together with [an excellent commentary][6] by Dr. Mark R. Payne. 
-  * I am currently <b>co-teaching</b> the course [<i><b>MARN3002 Foundations of Marine Sciences</b></i>][3] with [<i><b>Prof. Hans Dam</b></i>][2] in the Spring semester, 2024.
+  * I <b>co-teached</b> the course [<i><b>MARN3002 Foundations of Marine Sciences</b></i>][3] with [<i><b>Prof. Hans Dam</b></i>][2] for the Spring semester, 2024.
 
 December, 2023
 : * I gave an online seminar (30-min) at the <i><b>2023 U.S. Northeast Climate-Fisheries Seminar Series</b></i> about our recent work on marine habitat shifts predictions.
@@ -59,3 +68,4 @@ June, 2023
  [4]: https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483854
  [5]: https://today.uconn.edu/2024/02/a-new-tool-to-skillfully-predict-marine-habitat-shifts/
  [6]: https://www.nature.com/articles/s41467-024-45020-9
+ [7]: https://ncar.ucar.edu/predictability
