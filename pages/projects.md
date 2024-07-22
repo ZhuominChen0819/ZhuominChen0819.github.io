@@ -10,13 +10,13 @@ permalink: "/projects/"
 ---
 #### **Latest Progresses & News:**
 June, 2024
-: * My first research proposal (as a <i><b>Lead-PI</b></i>) has been selected for funding by NOAA. This project is about <i><b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b></i>. It's a three-year project and it will start in September, 2024. 
+: * My first research proposal (as a <i><b>Lead-PI</b></i>) has been selected for funding by NOAA. This project is about <i><b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b></i>. It's a three-year project and it will start from September, 2024. 
 
 April, 2024
-: * I attended the [Earth System Predictability Across Timescales (ESPAT) community workshop][7] and presented a poster about <b><i>Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen</i></b>
+: * I attended the [Earth System Predictability Across Timescales (ESPAT) community workshop][7] and presented a poster about <b><i>Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen</i></b>.
 
 March, 2024
-: * I worked as a member of the <i><b>Peer-review Panel</b></i> for NOAA proposals
+: * I worked as a member of the <i><b>Peer-review Panel</b></i> for NOAA proposals.
 
 February, 2024
 : * I presented a poster about [predicting marine habitat shifts][4] at the <i><b>Ocean Sciences Meeting 2024</b></i> (Thursday 4:00-6:00 PM, Feb 22nd, 2024; Poster Hall, First Floor). 
