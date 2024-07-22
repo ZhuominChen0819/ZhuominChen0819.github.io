@@ -21,13 +21,16 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 * ...
 
 #### My Education, Research, and Teaching Experience:
+###### 2024.09-:  Research Scientist in Physical & Biogeochemical Oceanography
+* I will be working as a <b>Lead-PI</b> on a project about <b><i>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</i></b>, working with [Dr.Enrique Curchitser (Rutgers)][1], [Dr.Samantha Siedlecki (UConn)][9], [Dr.Paula Fratantoni (NOAA NMFS)][6], [Dr. Michael Alexander (NOAA PSL)][17], and [Dr.Andrew Ross (NOAA GFDL)][18].
+
 ###### 2024.01-2024.03: Course Lecturer in Physical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I am a lecturer for the undergraduate course MARN3002 “Foundations of Marine Science” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
+* I worked as a lecturer for the undergraduate course MARN3002 “Foundations of Marine Science” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
 
-###### 2021.07-now:  Research Scientist in Physical & Biogeochemical Oceanography
+###### 2021.07-2024.08:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I am currently working with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrik (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
+* I worked with [Dr. Samantha Siedlecki][9], [Dr. Matthew Long (NCAR)][10], and [Dr. Colleen Petrik (Scripps)][11] at the [*Coastal Biogeochemistry Dynamics Lab, UConn*][12] to understand decadal predictability of oxygen and ocean metabolic state relevant to fisheries in large marine ecosystems of the ocean.
 
 ###### 2018.08-2021.07: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
@@ -70,3 +73,5 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
  [14]: https://marinesciences.uconn.edu/person/zhuomin-chen/
  [15]: https://www.nature.com/articles/s41467-024-45016-5 
  [16]: https://www.nature.com/articles/s41467-024-45020-9
+ [17]: https://psl.noaa.gov/people/michael.alexander/
+ [18]: https://andrew-c-ross.github.io/
