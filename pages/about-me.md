@@ -7,7 +7,7 @@ header:
    image_fullwidth  : "header_about_me.jpg"
 permalink           : "/about-me/"
 ---
-Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am currently a <b>Research Scientist</b> at [<b>University of Connecticut, Department of Marine Sciences</b>][14]. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>.  
+Hi there! My name is <b>Zhuomin (Jasmine) Chen</b>. I am currently a <b>Research Scientist</b> at the [<b>University of Connecticut, Department of Marine Sciences</b>][14]. I am a physical oceanographer by training, but now with a diverse interdisciplinary background encompassing expertise in <b>physical oceanography</b>, <b>marine biogeochemistry</b>, <b>ecology</b>, and <b>earth system modeling</b>.  
 
 I am thrilled to share our very recent exciting work about [<b>predicting marine habitat shifts on interannual-to-decadal timescales using CESM-DPLE model simulations</b>][13], which has just been published at <b>Nature Communications</b>: [www.nature.com/articles/s41467-024-45016-5][15].
 
@@ -40,7 +40,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 
 ###### 2013.08-2018.10: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
-* I was trained as a coastal physical oceanographer through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
+* I was trained as a <b>coastal physical oceanographer</b> through my PhD study with [Dr. Enrique Curchitser][1] at the [*Earth System Modeling Lab, Rutgers*][2]. I investigated the [Dynamics and Spatio-temporal Variability of the Mid-Atlantic Bight Cold Pool][3], as well as its potential connections with the meridional fluctuations of the Gulf Stream and the North Atlantic Oscillation, using a high-resolution long-term ROMS model for the Northwest Atlantic Ocean (ROMS-NWA).
 * I was a <b>Graduate Teaching Assistant</b> for the courses "Explore the World's Oceans" and "Physical Oceanography" at the Department of Marine and Coastal Sciences, Rutgers.
            
 ###### 2009.09-2013.06: Bachelor of Science (B.S.) with honors in Marine Science
