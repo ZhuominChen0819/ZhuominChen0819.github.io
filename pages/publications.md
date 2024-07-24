@@ -25,7 +25,7 @@ permalink: "/publications/"
 12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (2024). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
 
 <i>Papers in preparation</i>
-13. <b>Chen, Z.</b>, Siedlecki, S., Curchitser, E. N., Alexander, M. A. & F., Soars (2023). Future changes in the Mid-Atlantic Bight Cold Pool. Journal of Geophysical Research: Oceans, in preparation
+13. <b>Chen, Z.</b>, Siedlecki, S., Curchitser, E. N., Alexander, M. A. & F., Soars (2024). Future changes in the Mid-Atlantic Bight Cold Pool. Journal of Geophysical Research: Oceans, in preparation
 14. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2024</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
 15. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2024</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
 16. Petrik, C. M., Long, M. C., Stock, C., Lim, H.-G., K., K. M., <b>Chen, Z.</b>, S. A., Siedlecki. Drivers of spatiotemporal variability in fisheries production elucidated with global coupled models, in preparation
