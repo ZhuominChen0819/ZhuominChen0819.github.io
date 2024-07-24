@@ -27,7 +27,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 
 ###### 2024.01-2024.03: Course Lecturer in Physical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I worked as a lecturer for the undergraduate course MARN3002 “Foundations of Marine Science” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
+* I worked as a lecturer for the undergraduate course MARN3002 “<b>Foundations of Marine Science</b>” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
 
 ###### 2021.07-2024.08:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
@@ -36,7 +36,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 ###### 2018.08-2021.07: Guest Student/Postdoc Fellow/Postdoc Investigator in Physical Oceanography
 * <i><b>Woods Hole Oceanographic Institution (WHOI)</b></i>, Woods Hole, MA   
 * I was awarded a <b>National Research Council Postdoctoral Fellowship</b> (2018-2020) while working with [Dr. Young-Oh Kwon][4], [Dr. Ke Chen][5], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Glen Gawarkiewicz][7], and [Dr. Terrence Joyce][8] about developing and evaluating a statistical forecasting system for oceanographic conditions and living marine resources over the Northeast U.S. Shelf.
-* I gave a guest lecture for the course "Coasts and Communities" at the School for the Environment, Umass-Boston, focusing on the impacts from climate change on the coastal communities, e.g., coastal ocean heatwaves, sea level rise, and storms.
+* I gave a guest lecture for the course "<b>Coasts and Communities</b>" at the School for the Environment, Umass-Boston, focusing on the impacts from climate change on the coastal communities, e.g., coastal ocean heatwaves, sea level rise, and storms.
 
 ###### 2013.08-2018.10: Doctor of Philosophy (Ph.D.) in Physical Oceanography
 * <i><b>Rutgers, the State University of New Jersey</b></i>, New Brunswick, NJ   
