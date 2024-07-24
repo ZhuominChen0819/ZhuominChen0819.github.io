@@ -45,4 +45,4 @@ I am also one of the contributors to the NOAA State of Ecosystem Reports for the
 7. NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic (<b>2023</b>). <a href='https://doi.org/10.25923/vy6j-w454'>Link</a>
 8. NOAA NEFSC State of the Ecosystem reports for the New England (<b>2023</b>). <a href='https://doi.org/10.25923/9sb9-nj66'>Link</a>
 
-*<i> Last Updated in January, 2024</i>*
+*<i> Last Updated in July, 2024</i>*
