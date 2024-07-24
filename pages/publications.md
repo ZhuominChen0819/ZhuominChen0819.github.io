@@ -18,17 +18,17 @@ permalink: "/publications/"
 7. du Pontavice, H., Miller, T. J., Stock, B. C., <b>Chen, Z.</b>, & Saba, V. (<b>2022</b>). Ocean modelbased covariates improve a marine fish stock assessment when observations are limited. <i><b>ICES Journal of Marine Science</b></i>, fsac050. <a href='https://doi.org/10.1093/icesjms/fsac050'>Link</a>   
 8. du Pontavice, H., <b>Chen, Z.</b>, & Saba, V. S. (<b>2022</b>). A high-resolution ocean bottom temperature product for the northeast US continental shelf marine ecosystem. <i><b>Progress in Oceanography</b></i>, 102948. <a href='https://doi.org/10.1016/j.pocean.2022.102948'>Link</a>
 9. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i><b>Nature Communications</b></i>, <b>14</b>, 141. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
-10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (2024). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework. <i><b>Progress in Oceanography</b></i>, 103314. <a href='https://doi.org/10.1016/j.pocean.2024.103314'>Link</a>
+10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (<b>2024</b>). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework. <i><b>Progress in Oceanography</b></i>, 103314. <a href='https://doi.org/10.1016/j.pocean.2024.103314'>Link</a>
 
 <i>Papers submitted/in review</i>
-11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (2024). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
-12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (2024). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
+11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (<b>2024</b>). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
+12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (<b>2024</b>). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
 
 <i>Papers in preparation</i>
-13. <b>Chen, Z.</b>, Siedlecki, S., Curchitser, E. N., Alexander, M. A. & F., Soars (2024). Future changes in the Mid-Atlantic Bight Cold Pool. Journal of Geophysical Research: Oceans, in preparation
+13. <b>Chen, Z.</b>, Siedlecki, S., Curchitser, E. N., Alexander, M. A. & F., Soars (<b>2024</b>). Future changes in the Mid-Atlantic Bight Cold Pool. Journal of Geophysical Research: Oceans, in preparation
 14. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., Joyce, T. M. & Huang J. (<b>2024</b>). Variability along Pathways of the Deep Gulf of Maine Bottom Waters. <i>Geophysical Research Letters</i>, in preparation    
 15. <b>Chen, Z.</b>, Curchitser, E. N., Alexander, M., & Kwon, Y. O. (<b>2024</b>). Winter Heat Budget over the Cold Pool Region. <i>Geophysical Research Letters</i>, in preparation   
-16. Petrik, C. M., Long, M. C., Stock, C., Lim, H.-G., K., K. M., <b>Chen, Z.</b>, S. A., Siedlecki. Drivers of spatiotemporal variability in fisheries production elucidated with global coupled models, in preparation
+16. Petrik, C. M., Long, M. C., Stock, C., Lim, H.-G., K., K. M., <b>Chen, Z.</b>, S. A., Siedlecki (<b>2024</b>). Drivers of spatiotemporal variability in fisheries production elucidated with global coupled models, in preparation
 
   
 ### Technical Documents/Reports
