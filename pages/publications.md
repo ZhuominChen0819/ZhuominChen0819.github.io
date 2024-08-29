@@ -8,7 +8,6 @@ header:
 permalink: "/publications/"
 ---
 ### Peer-reviewed Journal Papers
-<i>Published papers</i>
 1. <b>Chen, Z.</b>, Curchitser, E., Chant, R. & Kang, D. (<b>2018</b>). Seasonal Variability of the Cold Pool over the Mid-Atlantic Bight Continental Shelf. <i><b>Journal of Geophysical Research: Oceans</b>, 123</i>(11), 8203-8226. <a href='https://doi.org/10.1029/2018JC014148'>Link</a>   
 2. <b>Chen, Z.</b>, Kwon, Y. O., Chen, K., Fratantoni, P., Gawarkiewicz, G., & Joyce, T. M. (<b>2020</b>). Long-term SST Variability on the Northwest Atlantic Continental Shelf and Slope. <i><b>Geophysical Research Letters</b>, 47</i>(1), e2019GL085455. <a href='https://doi.org/10.1029/2019GL085455'>Link</a>   
 3. <b>Chen, Z.</b>, Curchitser, E. N. (<b>2020</b>). Interannual Variability of the Mid‐Atlantic Bight Cold Pool. <i><b>Journal of Geophysical Research: Oceans</b>, 125</i>, e2020JC016445. <a href='https://doi.org/10.1029/2020JC016445'>Link</a>   
@@ -19,8 +18,6 @@ permalink: "/publications/"
 8. Huang, J., Pickart, R. S., <b>Chen, Z.</b>, & Huang, R. X. (<b>2023</b>). Role of air-sea heat flux on the transformation of Atlantic Water encircling the Nordic Seas. <i><b>Nature Communications</b></i>, <b>14</b>, 141. <a href='https://doi.org/10.1038/s41467-023-35889-3'>Link</a>   
 9. <b>Chen, Z.</b>, Siedlecki, S., Long, M., Petrik, C., Stock, C., & Deutsch C. (<b>2024</b>). Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen. <i><b>Nature Communications</b></i>, <b>15</b>, 900. <a href='https://www.nature.com/articles/s41467-024-45016-5'>Link</a>    
 10. Krumhardt, K. M., Long, M. C., Petrik, C. M., Levy, M., Castruccio, F. S., Lindsay, K., Romashkova, L., Deppenmeier, A.-L., Denechere, R., <b>Chen, Z.</b>, Landrum, L., Danabasoglu, G., & P. Chang (<b>2024</b>). From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework. <i><b>Progress in Oceanography</b></i>, 103314. <a href='https://doi.org/10.1016/j.pocean.2024.103314'>Link</a>
-
-<i>Papers submitted/in review</i>
 11. Nguyen, H., Siedlecki, S. A., Rocha, C. B., <b>Chen, Z.</b>, & Curchitser E. (<b>2024</b>). Temporal trends and causes of deoxygenation in the Northwest Atlantic shelf. <i><b>Journal of Geophysical Research-Oceans</b></i>, in revision
 12. Lim, H.-G., Petrik, C. M., Krumhardt, K. M., <b>Chen, Z.</b>, Long, M. C., Stock, C. A., Park, J.-Y., & E.-Y., Kim (<b>2024</b>). Skillful multiyear predictability of forage, large pelagic and demersal fish biomass. <i><b>Nature Communications</b></i>, submitted
 
