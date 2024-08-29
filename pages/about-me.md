@@ -22,6 +22,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 
 #### My Education, Research, and Teaching Experience:
 ###### 2024.09-:  Research Scientist in Physical & Biogeochemical Oceanography
+* <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
 * I will be working as a <b>Lead-PI</b> on a project (<i>NOAA MAPP - Advancing an Integrated NOAA Capability for Climate Predictions and Projections in Support of NOAA’s Climate Ecosystems Fisheries Initiative</i>) about "<b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b>".
 * Co-PIs and collaborators: [Dr. Enrique Curchitser (Rutgers)][1], [Dr. Samantha Siedlecki (UConn)][9], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Michael Alexander (NOAA PSL)][17], and [Dr. Andrew Ross (NOAA GFDL)][18].
 
