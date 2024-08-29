@@ -8,6 +8,18 @@ header:
 permalink: "/projects/"
 
 ---
+#### **Ongoing Projects:**
+1. Future changes in the Mid-Atlantic Bight Cold Pool
+:  I am currently working on investigating future changes in the Mid-Atlantic Bight Cold Pool, based on Chen et al. [2018] and Chen & Curchitser [2020], using dynamically downscaled high-resolution models (ROMS-NWA-COBALT) under the high-emission scenario SSP5-8.5.
+
+2. Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations
+:  I have just been funded by <b><i>NOAA Modeling, Analysis, Predictions, and Projections Program (09/01/2024-08/31/2027; $568,996)</i></b> to work on investigating projections of changes in the Gulf Stream Warm-Core Rings and their impacts on the Northeast U.S. Large Marine Ecosystem using dynamically downscaled high-resolution models (regional MOM6-NWA) under different climate scenarios.
+
+3. Marine habitat shifts jointly constrained by ocean temperature and dissolved oxygen  
+:  I am also working on investigating <i>marine habitat shifts</i> in large marine ecosystems around the North America, based on my recent work - Chen et al. [2024]. This study will identify mechanistic controls to the predictability from the physical and biogeochemical driver variables across different marine species.   
+4. Tracking Source Waters for the Northeast U.S. Shelf (NES) Bottom waters   
+:  I am also working on tracking source waters of the NES bottom waters based on water mass characteristics, using a reanalysis dataset. This study also investigates relationships with Gulf Stream warm core rings.   
+
 #### **Latest Progresses & News:**
 June, 2024
 : * My first research proposal (as a <i><b>Lead-PI</b></i>) has been selected for funding by NOAA. This project is about <i><b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b></i>. It's a three-year project and it will start from September, 2024. 
@@ -48,15 +60,6 @@ July, 2023
 June, 2023
 : * I presented a poster (30-sec poster preview talk) about marine habitat shift predictions at the <i><b>Gordon Research Conference-Coastal Ocean Dynamics</b></i>, Bryant University, RI 
 
-#### **Ongoing Projects:**
-1. Marine habitat shifts jointly constrained by ocean temperature and dissolved oxygen  
-:  I am currently working on investigating <i>marine habitat shifts</i> in large marine ecosystems around the North America, using a novel suite of initialized retrospective Earth System Model with embedded ocean biogeochemistry (CESM-DPLE). This study also identifies mechanistic controls to the predictability from the physical and biogeochemical driver variables across different marine species.   
-2. Future changes in the Mid-Atlantic Bight Cold Pool
-:  I am also working on investigating future changes in the Mid-Atlantic Bight Cold Pool, using dynamically downscaled high-resolution models under high-emission scenario SSP5-8.5.
-3. Future projections in the Gulf Stream Warm-Core Rings
-:  I am also working on investigating projections of changes in the Gulf Stream Warm-Core Rings using dynamically downscaled high-resolution models under high-emission scenario SSP5-8.5.
-4. Tracking Source Waters for the Northeast U.S. Shelf (NES) Bottom waters   
-:  I am also working on tracking source waters of the NES bottom waters based on water mass characteristics, using a reanalysis dataset. This study also investigates relationships with Gulf Stream warm core rings.   
 
 #### **Previous Projects:**
 {: .t60 }
