@@ -28,7 +28,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 
 ###### 2024.01-2024.03: Course Lecturer in Physical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I worked as a lecturer for the undergraduate course MARN3002 “<b>Foundations of Marine Science</b>” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
+* I worked as a lecturer for the Spring 2024 course MARN3002 “<b>Foundations of Marine Science</b>” at the Department of Marine Sciences, UConn, responsible for the first half of the course (every Tuesday and Thursday), focusing on physical oceanography, e.g., stratification and mixing, equations of momentum and force balances, and ocean circulation. 
 
 ###### 2021.07-2024.08:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
