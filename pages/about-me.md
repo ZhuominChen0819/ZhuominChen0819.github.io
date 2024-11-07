@@ -53,7 +53,7 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
  
 #### Other Professional Service or Activities:
 * <b>Journal Reviewer</b> for <i>Nature</i> (1); <i>Nature Climate Change</i> (1); <i>Geophysical Research Letters</i> (2); <i>Journal of Geophysical Research-Oceans</i> (4); <i>Continental Shelf Research</i> (1); <i>Fisheries Oceanography</i> (1); <i>Remote Sensing of Environment</i> (1); <i>European Geosciences Union-Ocean Sciences</i> (3); and <i>Journal of Advances in Modeling Earth Systems</i> (1)
-* <b>Panel Review</b> for NOAA proposals
+* <b>Proposal Reviewer</b> for NSF and NOAA (<i>panel review</i>)
 * <b>Contributor</b> to NOAA NEFSC State of the Ecosystem reports for the Mid-Atlantic and New England, providing the observation-based Gulf Stream indices and expertise on evaluating the Mid-Atlantic Bight Cold Pool (2019-)
 * <b>Member</b> of NOAA Climate Program Office Marine Prediction Task Force, aiming on advancing seasonal to interannual prediction of U.S. coastal environment and ecosystems (2018-2020)
 * <b>Member</b> of NOAA Climate Program Office Marine Ecosystem Task Force, aiming on oxygen prediction using decadal prediction large ensemble ocean models (2021-)
